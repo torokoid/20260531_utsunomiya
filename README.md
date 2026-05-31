@@ -190,7 +190,7 @@ p.note { display: none; }
 <h2><span class="yellow">ひと泳ぎした後の西の空が綺麗なグラデーション</span></h2>
 <a href="20260531_012.JPG" target="_blank"><img src="20260531_012.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow"></span>木の右上に一番星が見えました</h2>
+<h2><span class="yellow">木の右上に一番星が見えました</span></h2>
 <a href="20260531_013.JPG" target="_blank"><img src="20260531_013.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">東の空にはお月さまが登りました</span></h2>
